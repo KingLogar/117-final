@@ -1,0 +1,52 @@
+html{
+    height: 97%;
+}
+body {
+    height: 100%;
+    background-image: url(../img/NJIT_tile.jpg);
+    background-color: #ff3300;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 300;
+}
+h1, h2 {
+    margin-block-start: .3em;
+    margin-block-end: .3em;
+}
+h1{
+    color: white;
+}
+h3{
+    padding-left: 9px;
+    padding-right: 9px;
+}
+p{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    font-size: 20px;
+}
+
+hr{
+    border-top: solid black thin;
+}
+
+.contain{
+    min-height: 90%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border: black thin solid;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.header{
+    text-align: center;
+    border-bottom: solid thin black;
+    border-top: solid thin transparent;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    background-color: #ff3300;
+}
+.subhead{
+    text-align: center;
+}
