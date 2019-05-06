@@ -29,7 +29,24 @@ p{
 hr{
     border-top: solid black thin;
 }
-
+.nav1{
+    transition: .3s;
+}
+.nav1:hover{
+    background-color: #ff3300;
+}
+.nav2{
+    transition: .3s;
+}
+.nav2:hover{
+    background-color: #ff3300;
+}
+.nav3{
+    transition: .3s;
+}
+.nav3:hover{
+    background-color: #ff3300;
+}
 .contain{
     min-height: 90%;
     margin-left: 25%;
