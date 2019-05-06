@@ -50,3 +50,23 @@ hr{
 .subhead{
     text-align: center;
 }
+.ital{
+    font-style: italic;
+}
+.twoColumn{
+    clear: both;
+}
+.left{
+    float: left;
+    padding-left: 10%;
+}
+.right{
+    float: right;
+    padding-right: 15%;
+}
+.list-left{
+    padding-left: 10%;
+}
+.list-right{
+    padding-right: 10%;
+}
